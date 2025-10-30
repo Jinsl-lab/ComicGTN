@@ -1,6 +1,7 @@
 # <p align="center">ComicGTN infers rare cell states from single-cell multi-omics data using DNA sequence-augmented graph transformer networks.</p>
 ## Framework
 `ComicGTN` is an innovative computational framework that integrates single-cell multi-omics data with DNA sequence information via an enhanced graph transformer networks to accurately identify rare target clusters.  
+  
 ![Figure1-修](https://github.com/user-attachments/assets/670cb3b7-f7fd-4b1e-89c3-5ac95d3bc844)
 ## Requirements and Installation
 ### System requirements
@@ -73,5 +74,5 @@ Rscript scan_for_kmers_motifs.R -i Peaks.bed -g hg19.fa -s "Homo sapiens"
 Rscript scan_for_kmers_motifs.R -i Peaks.bed -g mm10.fa -s "Mus musculus"
 ```
 ## Tutorials
-We provide a simple example demonstrating how to use ComicGTN to infer rare cell populations and visualize the results.
+We provide a simple example demonstrating how to use ComicGTN to infer rare cell populations and visualize the results. Before starting this tutorial, please ensure you have completed all necessary steps outlined in README.md. If you encounter any issues during the process, feel free to contact us.  
 [ComicGTN Tutorial on BMMC-bench-1](https://github.com/Jinsl-lab/ComicGTN/blob/main/tutorial/example.ipynb)
