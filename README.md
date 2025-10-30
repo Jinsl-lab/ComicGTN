@@ -8,3 +8,11 @@ ComicGTN is an innovative computational framework that integrates single-cell mu
 [![scipy](https://img.shields.io/badge/scipy-V1.11.4-yellow?style=flat)](https://pypi.org/project/scipy/1.11.4/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-V1.1.0-green?style=flat)](https://pypi.org/project/scikit-learn/1.1.0/)
 [![torch](https://img.shields.io/badge/torch-V2.6.0-cyan?style=flat)](https://pypi.org/project/torch/2.6.0/)
+[![torch-geometric](https://img.shields.io/badge/torch--geometric-V2.6.1-blue?style=flat)](https://pypi.org/project/torch-geometric/2.6.1/)
+[![torch-scatter](https://img.shields.io/badge/torch--scatter-V2.1.2-purple?style=flat)](https://pypi.org/project/torch-scatter/2.1.2/)
+[![torch-sparse](https://img.shields.io/badge/torch--sparse-V0.6.18-pink?style=flat)](https://pypi.org/project/torch-sparse/0.6.18/)
+[![leidenalg](https://img.shields.io/badge/leidenalg-V0.10.2-silver?style=flat)](https://pypi.org/project/leidenalg/0.10.2/)
+[![scanpy](https://img.shields.io/badge/scanpy-V1.10.4-gold?style=flat)](https://pypi.org/project/scanpy/1.10.4/)
+
+
+
